@@ -41,7 +41,7 @@
 
 The following example program uses Zydis to disassemble a given memory buffer and prints the output to the console.
 
-https://github.com/zyantific/zydis/blob/214536a814ba20d2e33d2a907198d1a329aac45c/examples/DisassembleSimple.c#L38-L63
+https://github.com/Toin1779712664/zydis/tree/master/examples/DisassembleSimple.c#L38-L63
 
 The above example program generates the following output:
 
